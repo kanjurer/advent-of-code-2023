@@ -1,3 +1,5 @@
+# Day 3 Problem 1
+
 import re
 
 X = [line.strip() for line in open('data.in')]
